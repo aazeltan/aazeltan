@@ -1,14 +1,14 @@
 <!-- PROFILE HEADER -->
 <!-- <p align="center">
   <!-- TODO: Replace the image link below with your own professional headshot -->
-  <img src="YOUR_IMAGE_URL_HERE" alt="Aazel Tan" width="160" style="border-radius: 50%;">
+  <!-- <img src="YOUR_IMAGE_URL_HERE" alt="Aazel Tan" width="160" style="border-radius: 50%;"> -->
 </p> -->
 
 <h1 align="center">Hi, I'm Aazel 👋</h1>
 
 <p align="center">
   <!-- TODO: Replace with your actual LinkedIn URL -->
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/aazeltan/)">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/aazeltan/">LinkedIn</a> ·
   <a href="mailto:aazeltan@gmail.com">Email</a>
 </p>
 
