@@ -1,8 +1,8 @@
 <!-- PROFILE HEADER -->
-<!-- <p align="center">
+<!-- <p align="center">  -->
   <!-- TODO: Replace the image link below with your own professional headshot -->
   <!-- <img src="YOUR_IMAGE_URL_HERE" alt="Aazel Tan" width="160" style="border-radius: 50%;"> -->
-</p> -->
+</p>
 
 <h1 align="center">Hi, I'm Aazel 👋</h1>
 
