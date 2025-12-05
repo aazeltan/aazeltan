@@ -42,7 +42,7 @@ Outside of tech, I care a lot about **democratizing access to opportunities** an
 
 ## 📬 Contact
 
-- ✉️ Email: `aazeltan@gmail.com  
-- 🔗 LinkedIn: (https://www.linkedin.com/in/aazeltan/)
+- ✉️ Email: aazeltan@gmail.com  
+- 🔗 LinkedIn:   <a href="https://www.linkedin.com/in/aazeltan/">LinkedIn</a> 
 
 I’m open to opportunities in **data science, ML, and product management** roles where I can learn fast, contribute to real projects, and work with supportive teams.
